@@ -1,0 +1,7 @@
+.idea
+go.sum
+*.json
+*.yaml
+*.yml
+*.ini
+*.conf

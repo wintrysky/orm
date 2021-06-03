@@ -1,0 +1,34 @@
+# github.com/go-sql-driver/mysql v1.6.0
+github.com/go-sql-driver/mysql
+# github.com/google/uuid v1.2.0
+## explicit
+github.com/google/uuid
+# github.com/guregu/null v4.0.0+incompatible
+## explicit
+github.com/guregu/null
+# github.com/hyahm/goconfig v0.0.0-20210404042807-4f5600f37d4c
+## explicit
+github.com/hyahm/goconfig
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.2
+github.com/jinzhu/now
+# github.com/spf13/cast v1.3.1
+## explicit
+github.com/spf13/cast
+# gopkg.in/yaml.v2 v2.2.8
+gopkg.in/yaml.v2
+# gorm.io/driver/mysql v1.1.0
+## explicit
+gorm.io/driver/mysql
+# gorm.io/gorm v1.21.10
+## explicit
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
+# sigs.k8s.io/yaml v1.2.0
+sigs.k8s.io/yaml
