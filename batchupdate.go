@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strings"
 	"time"
-	"vv/orm/internal"
+	"github.com/wintrysky/orm/internal"
 )
 
 func (x *GormDB) batchUpdateInternal(entities interface{}, cols []string, rowMap []map[string]interface{}) (string,

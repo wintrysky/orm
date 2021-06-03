@@ -6,8 +6,8 @@ import (
 	"github.com/guregu/null"
 	"testing"
 	"time"
-	"vv/orm"
-	"vv/orm/tests/model"
+	"github.com/wintrysky/orm"
+	"github.com/wintrysky/orm/tests/model"
 )
 
 // TestUpdate 测试更新单条数据

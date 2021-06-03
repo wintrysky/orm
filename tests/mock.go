@@ -5,7 +5,7 @@ import (
 	"github.com/guregu/null"
 	"github.com/spf13/cast"
 	"time"
-	"vv/orm/tests/model"
+	"github.com/wintrysky/orm/tests/model"
 )
 
 func BuildRecord(idx int,operateType string) model.UnitTestModel{

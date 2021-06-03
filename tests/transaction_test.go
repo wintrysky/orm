@@ -2,7 +2,7 @@ package tests
 
 import (
 	"testing"
-	"vv/orm"
+	"github.com/wintrysky/orm"
 )
 
 // TestTxInsert 事务提交

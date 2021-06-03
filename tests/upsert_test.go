@@ -7,8 +7,8 @@ import (
 	"github.com/guregu/null"
 	"testing"
 	"time"
-	"vv/orm"
-	"vv/orm/tests/model"
+	"github.com/wintrysky/orm"
+	"github.com/wintrysky/orm/tests/model"
 )
 
 // TestBatchUpsert 测试批量新增或更新

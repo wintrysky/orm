@@ -1,4 +1,4 @@
-module vv/orm
+module github.com/wintrysky/orm
 
 go 1.15
 

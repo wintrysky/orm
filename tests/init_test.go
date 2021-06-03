@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"github.com/hyahm/goconfig"
 	"testing"
-	"vv/orm"
-	"vv/orm/internal"
-	"vv/orm/tests/model"
+	"github.com/wintrysky/orm"
+	"github.com/wintrysky/orm/internal"
+	"github.com/wintrysky/orm/tests/model"
 )
 
 type baseConfig struct {

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
-	"vv/orm/internal"
+	"github.com/wintrysky/orm/internal"
 )
 
 // GetItemWhere 获取数据

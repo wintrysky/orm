@@ -3,8 +3,8 @@ package tests
 import (
 	"fmt"
 	"testing"
-	"vv/orm"
-	"vv/orm/tests/model"
+	"github.com/wintrysky/orm"
+	"github.com/wintrysky/orm/tests/model"
 )
 
 // TestInsert 测试新增单条数据
